@@ -1,0 +1,7 @@
+# C++ compiled files
+*.bin
+*.out
+a.out
+
+# macOS
+.DS_Store
